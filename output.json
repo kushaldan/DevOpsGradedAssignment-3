@@ -1,0 +1,7 @@
+{
+  "load_balancer_dns": {
+    "sensitive": false,
+    "type": "string",
+    "value": "nginx-lb-1823394733.us-east-1.elb.amazonaws.com"
+  }
+}
